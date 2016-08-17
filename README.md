@@ -1,3 +1,4 @@
+
 https://zenodo.org/badge/23914/KIT-HYD/SeriesDistance.svg
 
 Documentation of the Series Distance (SD) method
