@@ -1,5 +1,5 @@
 
-https://zenodo.org/badge/23914/KIT-HYD/SeriesDistance.svg
+<a href="https://zenodo.org/badge/latestdoi/23914/KIT-HYD/SeriesDistance"><img src="https://zenodo.org/badge/23914/KIT-HYD/SeriesDistance.svg" alt="10.5281/zenodo.60356"></a>
 
 Documentation of the Series Distance (SD) method
 
