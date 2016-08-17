@@ -1,11 +1,10 @@
+https://zenodo.org/badge/23914/KIT-HYD/SeriesDistance.svg
 
 Documentation of the Series Distance (SD) method
 
 **Contact**: uwe.ehret@kit.edu | simon.seibert@kit.edu
 
 **last modification**: 17.08.2016
-
-https://zenodo.org/badge/latestdoi/23914/KIT-HYD/SeriesDistance
 
 This is a quick start documentation of the matlab code on the Series Distance (SD) method described by Ehret and Zehe (2011) and Seibert et al. (2016) to quantify timing and magnitude errors between simulated and observed stream flow. Please note that this version of SD is a **development release** which might be unstable and behave unexpectedly. The SD method comes with ABSOLUTELY NO WARRANTY. You are welcome to modify and redistribute it within the license agreement. The SD method is published under the CreativeComons "BY-NC-SA 4.0" license together with a ready-to-use sample data set. To view a full version of the license agreement please visit https://creativecommons.org/licenses/by-nc-sa/4.0/. 
 
