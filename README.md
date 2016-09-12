@@ -5,7 +5,7 @@ Documentation of the Series Distance (SD) method
 
 **Contact**: uwe.ehret@kit.edu | simon.seibert@kit.edu
 
-**last modification**: 17.08.2016
+**last modification**: 12.09.2016
 
 This is a quick start documentation of the matlab code on the Series Distance (SD) method described by Ehret and Zehe (2011) and Seibert et al. (2016) to quantify timing and magnitude errors between simulated and observed stream flow. Please note that this version of SD is a **development release** which might be unstable and behave unexpectedly. The SD method comes with ABSOLUTELY NO WARRANTY. You are welcome to modify and redistribute it within the license agreement. The SD method is published under the CreativeComons "BY-NC-SA 4.0" license together with a ready-to-use sample data set. To view a full version of the license agreement please visit https://creativecommons.org/licenses/by-nc-sa/4.0/. 
 
@@ -64,6 +64,8 @@ The event mode version requires a simulated and a related observed time series p
 
 **References:**
 
-Ehret, U., Zehe, E., 2011. Series distance - An intuitive metric to quantify hydrograph similarity in terms of occurrence, amplitude and timing of hydrological events. Hydrol. Earth Syst. Sci. 15, 877–896. doi:10.5194/hess-15-877-2011
+Seibert, S. P., U. Ehret and E. Zehe (2016): Disentangling timing and amplitude errors in streamflow simulations. Hydrol. Earth Syst. Sci. 20 (9), 3745-3763, 10.5194/hess-20-3745-2016.
 
-Seibert, S. P., Ehret, U., and Zehe, E., 2016: Disentangling timing and amplitude errors in streamflow simulations, Hydrol. Earth Syst. Sci. XXXX
+Ehret, U., Zehe, E. (2011): Series distance - An intuitive metric to quantify hydrograph similarity in terms of occurrence, amplitude and timing of hydrological events. Hydrol. Earth Syst. Sci. 15, 877–896. doi:10.5194/hess-15-877-2011
+
+
